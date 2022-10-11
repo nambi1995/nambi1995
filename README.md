@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!-- - 🤝 I’m looking for help with **Machine Learning** -->
 
-- 👨‍💻 All of my projects are available at [https://nambi1995.github.io/portfolio/](https://nambi1995.github.io/portfolio/)
+- 👨‍💻 Check my profile here [https://nambi1995.github.io/portfolio/](https://nambi1995.github.io/portfolio/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
